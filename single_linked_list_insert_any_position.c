@@ -58,13 +58,9 @@ void display()
 int main()
 {
 	insert(10);
-	printf("one\n");
 	insert(11);
-	printf("one\n");
 	insert(12);
-	printf("one\n");
 	insert(13);
-	printf("one\n");
 	insert_any(14,0);
 	display();
 	return 0;
